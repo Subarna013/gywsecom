@@ -1,0 +1,155 @@
+body {
+  background-repeat: no-repeat;
+        background-image: url("https://media.istockphoto.com/id/1077699714/photo/winter-young-woman-portrait-beauty-joyful-model-girl-laughing-and-having-fun-in-winter-park.jpg?s=612x612&w=0&k=20&c=OezhuiTHIoLfqCii5iXolfQfc73Kj-wdqtcQRsan5NQ=");
+background-size:auto 550px;
+       
+        }
+ul{
+margin-left: 100px;
+}
+.c1{
+  margin-top:-200px;
+  margin-left:1000px;
+  font-size: 500%;
+  color: blue;
+}
+.c2{
+  margin-left: 1000px;
+  font-size:150%;
+  color: blue;
+}
+li{
+  list-style: none;
+  padding-left: 10px;
+  padding-right:10px;
+}
+body  {
+  content:""; 
+  height: 40%;  
+}
+.home{
+  margin-top:150px;
+}
+.category{
+  color:blue;
+  font-size:xx-large;
+  text-align: center;
+  text-shadow: 3px blue;
+}
+.card{
+  float:left;
+  margin:40px;
+  height:650px;
+  width:600px;
+  box-shadow:0px 6px 6px grey;
+}
+.card img{
+  border-radius:12px;
+  height:400px;
+ 
+}
+.btn btn-primary:hover{
+  background-color: white;
+  color:blue;
+}
+.product{
+  color:blue;
+  font-size: xx-large;
+  text-align: center;
+  margin-top:1500px;
+}
+.MRP{
+  MARGIN-TOP:-40PX;
+  MARGIN-LEFT:120PX;
+}
+.logo{
+  color:blue;
+  font-size: xx-large;
+ text-align: center;
+}
+.patagonia{
+  width:305px;
+  }
+.oldnavy{
+  width:245px;
+}  
+.allen{
+  width:275px;
+}
+.mont{
+ width:175px;
+}
+.addidas{
+  width:260px;
+}
+.join{
+  color:blue;
+  font-size: xx-large;
+ text-align: center;
+}
+.aboutus{
+  color:blue;
+  font-size: xx-large;
+ text-align: center;
+}
+.number{
+  width:120px;
+  margin-left:15px;
+}
+.btn1:hover{
+  background-color: blue;
+  color:white;
+}
+.btn1{
+  border-radius: 8px;
+  width:100px;
+}
+.mail{
+  width:250px;
+  margin-left:15px;
+}
+.contact1{
+  color:blue;
+  font-size: xx-large;
+ text-align: center;
+}
+.background{
+  margin:20px 50px 50px 50px;
+}
+.cloth{
+  padding-bottom: 50px;
+  float:left;
+  width:auto;
+  margin-top:-40px;
+  margin-left:-50px;
+  padding-left:-40px;
+  margin-right:20px;
+}
+.text{
+  margin-top:40px;
+  margin-left:60px;
+  padding-left:90px;
+  font-size: larger;
+}
+.gallery{
+  color:blue;
+  font-size: xx-large;
+ text-align: center;
+}
+.one{
+  width:350px;
+  border-radius: 12px;
+  margin-left: 90px;
+}
+.three{
+  width:350px;
+  border-radius: 12px;
+  margin-left: 90px;
+}
+.two{
+  height:450px;
+    width:340px;
+  border-radius: 12px;
+  margin-left: 90px;
+}
+
